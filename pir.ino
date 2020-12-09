@@ -1,7 +1,7 @@
-int led = 13;                // the pin that the LED is atteched to
+int led = 13;                // the pin that the LED is attached to
 //int relay1 = 4;
 int relay2 = 7;
-int sensor = 4;              // the pin that the sensor is atteched to
+int sensor = 4;              // the pin that the sensor is attached to
 int state =   LOW        ;   // by default, no motion detected
 int val = 0;                 // variable to store the sensor status (value)
 
